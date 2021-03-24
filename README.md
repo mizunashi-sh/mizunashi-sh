@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=mizunashi-sh&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizunashi-sh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there 👋
 - 📕 I am currently an undergraduate student at School of Computer Science, East China Normal University
 - 🌱 I’m currently learning mathematical analysis
