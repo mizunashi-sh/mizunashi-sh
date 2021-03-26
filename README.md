@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 - 📕 I am currently an undergraduate student at School of Computer Science, East China Normal University
-- 🌱 I’m currently learning mathematical analysis
 - 📫 You can reach me at mizunashi@mizunashi.me
