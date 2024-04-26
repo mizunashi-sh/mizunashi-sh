@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=mizunashi-sh&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
-- 📕 I am currently an undergraduate student at School of Computer Science, East China Normal University
+- 📕 I am currently an undergraduate student at School of System Science, Beijing Normal University
+- 🎓 Before this, I have got B. Eng. of Computer Science and B. A. Minor of Japanese at East China Normal University
+- 📌 Currently my research interest is in computational neuroscience, including the neural mechanism of visual cognition and brain-inspired artificial intelligence
 - 📫 You can reach me at mizunashi@mizunashi.me
