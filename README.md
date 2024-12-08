@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 📕 I am currently an undergraduate student at School of System Science, Beijing Normal University
 - 🎓 Before this, I have got B. Eng. of Computer Science and B. A. Minor of Japanese at East China Normal University
 - 📌 Currently my research interest is in computational neuroscience, including the neural mechanism of visual cognition and brain-inspired artificial intelligence
-- 📫 You can reach me at mizunashi@mizunashi.me
+- 📫 You can reach me at mizunashi [at] mizunashi.me
