@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋
-- 📕 I am currently a software engineer at a semiconductor fab.
+- 🧑‍💻 I am currently a software engineer at a semiconductor fab.
 - 🎓 Before this, I have got B. Eng. of Computer Science and B. A. Minor of Japanese at East China Normal University. I have also got M.Sc. of System Science at Beijing Normal University.
 - 📌 Currently my research interest is in computational neuroscience, including neural dynamics and brain-inspired artificial intelligence.
 - 📫 You can reach me at mizunashi [at] mizunashi.me.
